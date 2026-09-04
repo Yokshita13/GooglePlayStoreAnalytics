@@ -102,6 +102,6 @@ The project includes visualizations such as:
 6. Generate business insights
 7. Build dashboard/report
 
----
 
-## 📁 Project Structure
+
+
