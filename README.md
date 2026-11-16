@@ -1,13 +1,13 @@
-# 📱 Google Play Store Data Analytics
+# Google Play Store Data Analytics
 
-## 📌 Project Overview
+## Project Overview
 The **Google Play Store Data Analytics** project focuses on analyzing Android application data to understand app performance, user engagement, ratings, categories, pricing trends, and other key factors that influence an app's success.
 
 The project uses data analysis techniques to clean, process, visualize, and extract meaningful insights from Google Play Store datasets. The main goal is to identify patterns and trends that can help developers and businesses make data-driven decisions for improving app quality and market performance.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Analyze Google Play Store app data.
 - Clean and preprocess raw datasets.
 - Explore relationships between app ratings, reviews, installs, and categories.
@@ -18,7 +18,7 @@ The project uses data analysis techniques to clean, process, visualize, and extr
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python**
 - **Pandas** – Data cleaning and manipulation
@@ -30,7 +30,7 @@ The project uses data analysis techniques to clean, process, visualize, and extr
 
 ---
 
-## 📂 Dataset
+##  Dataset
 The dataset contains information about applications available on the Google Play Store, including:
 
 - App Name
@@ -49,7 +49,7 @@ The dataset contains information about applications available on the Google Play
 
 ---
 
-## 🔍 Data Analysis Performed
+## Data Analysis Performed
 
 ### Data Cleaning
 - Handling missing values
@@ -68,7 +68,7 @@ The dataset contains information about applications available on the Google Play
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 Some insights generated from the analysis:
 
 - Identified the most popular app categories based on installs.
@@ -79,7 +79,7 @@ Some insights generated from the analysis:
 
 ---
 
-## 📈 Visualizations
+## Visualizations
 
 The project includes visualizations such as:
 
@@ -92,7 +92,7 @@ The project includes visualizations such as:
 
 ---
 
-## 🚀 Project Workflow
+##  Project Workflow
 
 1. Import dataset
 2. Perform data cleaning
@@ -101,7 +101,3 @@ The project includes visualizations such as:
 5. Create meaningful visualizations
 6. Generate business insights
 7. Build dashboard/report
-
-
-
-
